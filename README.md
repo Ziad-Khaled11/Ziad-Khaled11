@@ -4,16 +4,11 @@
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1dQMcCk1uXsxvcKNN-fewOz2kBsuHmg_1/view?usp=drive_link)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ziad-Khaled11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ziad-Khaled11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ziad-Khaled11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Khaled11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ziad-Khaled11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ziad-Khaled11&limit=5&theme=dark&combine_all_yearly_contributions=true)
