@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Khaled</h1>
 <h3 align="center">A senior computer science student with strong analytical thinking and hands-on experience in software development, AI, machine learning, and data structures. My strengths include building real-world projects using diverse technologies and languages like Python, Java, C++, and JavaScript, along with solid problem-solving skills and a passion for continuous learning.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dQMcCk1uXsxvcKNN-fewOz2kBsuHmg_1/view?usp=drive_link](https://drive.google.com/file/d/1dQMcCk1uXsxvcKNN-fewOz2kBsuHmg_1/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1dQMcCk1uXsxvcKNN-fewOz2kBsuHmg_1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
