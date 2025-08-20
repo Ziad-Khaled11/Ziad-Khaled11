@@ -14,7 +14,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ziad-Khaled11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ziad-Khaled11&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ziad-Khaled11.Ziad-Khaled11&"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
