@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ziad-Khaled11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ziad-Khaled11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Khaled11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ziad-Khaled11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
